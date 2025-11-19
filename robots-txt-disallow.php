@@ -15,8 +15,8 @@ if (!defined('DISALLOW_INDEXING') || DISALLOW_INDEXING !== true) {
 }
 
 add_filter('robots_txt', function ($output) {
-    $public = (bool) get_option( 'blog_public' );
-    if ( $public ) {
+    $public = (bool) get_option('blog_public');
+    if ($public) {
         return $output;
     }
 
