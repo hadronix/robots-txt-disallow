@@ -1,13 +1,19 @@
 {
-    "name": "rd/robots-txt-disallow",
+    "name": "hadronix/robots-txt-disallow",
     "description": "Force robots.txt to disallow all",
     "type": "wordpress-muplugin",
     "license": "MIT",
+    "keywords": [
+        "wordpress",
+        "robots.txt"
+    ],
     "authors": [
         {
             "name": "Rudi Diedrich",
             "email": "info@rudidiedrich.de"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
