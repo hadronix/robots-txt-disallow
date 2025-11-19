@@ -3,7 +3,7 @@
 Plugin Name:  Disallow Robots.txt Indexing
 Plugin URI:   https://rudidiedrich.de/
 Description:  Disallow indexing at all
-Version:      0.0.1
+Version:      1.0.0
 Author:       Rudi Diedrich
 Author URI:   https://rudidiedrich.de/
 Text Domain:  rd

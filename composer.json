@@ -13,7 +13,9 @@
             "email": "info@rudidiedrich.de"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.1.3"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
